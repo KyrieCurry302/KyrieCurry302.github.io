@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Touism spots</title>
+  <p>I will tell you my top 3 places you should go to in your Life Time<p/>
+  <a href="style.css" rel="stylesheet" type="text/css>
+</head>
+<body>
+ <nav class="navigation">
+    <ul>
+      <li>New York</li>
+       <li> India </li>
+      <li class="logo">THE 6IX</li>
+	</ul>
+  </nav>
+ <h2 class="destination">1. New York</h2>
+  <div class="description"> Situated on one of the world's largest natural harbors, New York City consists of five boroughs, each of which is a separate county of New York State. The five boroughs – Brooklyn, Queens, Manhattan, The Bronx, and Staten Island – were consolidated into a single city in 1898.<a
+<p>The Quick Early Histoy of New York is,In 1664, the city was named after then Duke of York, and future King of England James II. Charles II, King of England, James's older brother, had named him proprietor of the former territory of New Netherlands and its main city of New Amsterdam, which had recently been seized from the Dutch.
+  <h3> <a href = "https://en.wikipedia.org/wiki/New_York_City"</a> Learn More</
+   <p>The reason you should go is There so much too do to pass it up.</p>
+<img src="NewYorkSkyLine.jpg" />
+<p>1.Riverside Church 2.Time Warner Center 3.220 Central Park South 4.One57 5.432 Park Avenue 6.Chrysler Building 7.Bank of America Tower 8.Conde Nast Building 9.The New York Times Building 10.Empire State Building 11.Met Life Tower 12.30 Hudson Yards 13.10 Hudson Yards 14.15 Hudson Yards 15.56 Leonard Street 16.8 Spruce Street 17.Woolworth Building 18.70 Pine Street 19.30 Park Place 20.40 Wall Street 21.Three World Trade Center 22.Four World Trade Center 23.One World Trade Center</p>
+
+
+ </body>
+  
+  
+  
+  
+  
+  
